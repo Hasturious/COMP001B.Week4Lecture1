@@ -4,6 +4,10 @@ body {
     
 }
 
+header {
+    color: cornflowerblue;
+}
+
 nav, a {
     width: 300px;
     color: cornflowerblue;
