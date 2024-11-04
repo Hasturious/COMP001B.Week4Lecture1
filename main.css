@@ -19,3 +19,12 @@ aside {
 	position: relative;
     right: 100px;
 }
+
+.about {
+    font-size: 20px;
+    width: 450px;
+}
+
+img {
+    border: orangered 10px solid;
+}
