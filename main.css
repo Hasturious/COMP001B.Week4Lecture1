@@ -1,0 +1,14 @@
+body {
+    background-color: #BFE3D2;
+}
+
+nav {
+    width: 60px;
+}
+
+aside {
+    float: right;
+	width: 15%;
+	position: relative;
+	left: 40px;
+}
