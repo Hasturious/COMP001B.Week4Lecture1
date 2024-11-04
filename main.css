@@ -28,3 +28,11 @@ aside {
 img {
     border: orangered 10px solid;
 }
+
+button {
+    background-color: orangered;
+}
+
+button:hover{
+    background-color: orange;
+}
