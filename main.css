@@ -1,16 +1,16 @@
 body {
-    background-color: #001720;
+    background-color: #333333;
     color: white;
     
 }
 
 header {
-    color: cornflowerblue;
+    color: orange;
 }
 
 nav, a {
     width: 300px;
-    color: cornflowerblue;
+    color: orangered;
     text-decoration: solid;
 }
 
